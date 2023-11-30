@@ -46,6 +46,7 @@
 </body>
 </html>
 
+<html>
 body {
     font-family: Arial, sans-serif;
 }
@@ -79,3 +80,4 @@ body {
 h2 {
     color: #333;
 }
+</html>
