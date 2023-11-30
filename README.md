@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>UK Travel Website</title>
 </head>
 <body>
 
@@ -41,9 +40,4 @@
     <h2>Experiences</h2>
     <p>Immerse yourself in unique experiences across the country.</p>
 </div>
-
-
-h2 {
-    color: #333;
-}
 </html>
