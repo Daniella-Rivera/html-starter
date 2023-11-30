@@ -42,40 +42,6 @@
     <p>Immerse yourself in unique experiences across the country.</p>
 </div>
 
-<script src="script.js"></script>
-</body>
-</html>
-
-<html>
-body {
-    font-family: Arial, sans-serif;
-}
-
-.tabs {
-    overflow: hidden;
-    background-color: #f1f1f1;
-}
-
-.tablink {
-    float: left;
-    display: block;
-    color: #000;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 18px;
-    border: none;
-    cursor: pointer;
-}
-
-.tablink:hover {
-    background-color: #ddd;
-}
-
-.tabcontent {
-    display: none;
-    padding: 20px;
-}
 
 h2 {
     color: #333;
